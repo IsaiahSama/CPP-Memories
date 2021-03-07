@@ -1,0 +1,13 @@
+#include <iostream>
+#include <cstdio>
+#include <string>
+#include <cmath>
+#include <stdlib.h>
+#include <windows.h>
+#include <cstdlib>
+#include <sstream>
+#include <fstream>
+#include <iomanip>
+#include <conio.h>
+#include <typeinfo>
+#include <io.h>
